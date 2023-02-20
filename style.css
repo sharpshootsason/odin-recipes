@@ -1,0 +1,30 @@
+a {
+    color: firebrick;
+}
+
+a:hover {
+    color: black
+}
+
+a:active {
+    color: #555;
+}
+
+
+.top {
+   border: 5px solid black;
+   height: 15vh;
+   width: 100vh;
+   padding: 10px;
+   margin: auto;
+   text-align: center;
+}
+
+.wtf {
+    border: 10px solid black;
+    height: 10vh;
+    width: 20vh;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
