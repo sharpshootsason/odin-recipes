@@ -21,10 +21,11 @@ a:active {
 }
 
 .wtf {
-    border: 10px solid black;
-    height: 10vh;
-    width: 20vh;
-    padding: 20px;
+   
     margin: auto;
     text-align: center;
+}
+
+.three {
+    text-align: end;
 }
