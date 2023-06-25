@@ -55,7 +55,9 @@ while True:
 #meaning that when we break we access these prints
 # and we break out by hitting q
 # so this while loop will go and loop up and down until it breaks
-print('you won', player_score, 'times')
-print('the computer won', comp_score, 'times')
+if player_score > comp_score:
+    print('you won', player_score, 'times')
+else: 
+    print('the computer won', comp_score, 'times')
 print('goodbye')
 
